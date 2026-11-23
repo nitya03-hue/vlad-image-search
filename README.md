@@ -1,7 +1,7 @@
 # Image Search Using VLAD
 
 **Course:** CSS 587 - Computer Vision  
-**Student:** Nityasree Bellamkonda  
+**Student:** Nityasree Bellamkonda & Meghana Reddy Gavinolla
 **Semester:** Autumn 2026
 
 ## Project Overview
