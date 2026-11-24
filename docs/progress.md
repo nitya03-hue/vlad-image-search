@@ -23,6 +23,7 @@
 3. Implement k-means to generate a visual vocabulary.
 4. Begin VLAD encoding.
 
+
 ## November 23, 2026
 
 ### Completed
